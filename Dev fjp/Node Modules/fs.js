@@ -70,3 +70,4 @@ console.log(destPath)
 fs.copyFileSync(srcFilePath , destPath)
 console.log('file copied')
 
+
