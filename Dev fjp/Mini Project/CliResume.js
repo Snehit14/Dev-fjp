@@ -24,7 +24,7 @@ inquirer
        }
 
        else if(choices.Selection=='Projects'){
-            cp.execSync('start chrome https://github.com/Snehit14')
+            cp.execSync('start chrome https://github.com/Snehit14/Dev-fjp/tree/master/Dev%20fjp')
             displayNext()
        }
 
